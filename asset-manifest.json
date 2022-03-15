@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/faceApp/static/css/main.3c2e543a.css",
+    "main.js": "/faceApp/static/js/main.cd443409.js",
+    "static/js/787.39ffc5ac.chunk.js": "/faceApp/static/js/787.39ffc5ac.chunk.js",
+    "static/media/face-unlock.png": "/faceApp/static/media/face-unlock.bc1c70482e635698c56c.png",
+    "index.html": "/faceApp/index.html",
+    "main.3c2e543a.css.map": "/faceApp/static/css/main.3c2e543a.css.map",
+    "main.cd443409.js.map": "/faceApp/static/js/main.cd443409.js.map",
+    "787.39ffc5ac.chunk.js.map": "/faceApp/static/js/787.39ffc5ac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c2e543a.css",
+    "static/js/main.cd443409.js"
+  ]
+}
